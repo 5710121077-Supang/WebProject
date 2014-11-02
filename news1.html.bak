@@ -13,7 +13,7 @@
 <div class="wrapper row1">
   <div id="header" class="clear">
     <div class="fl_left">
-      <h1><a href="index.html">Management of Information Technology@PSU</a></h1>
+      <h1><a href="index.html"><img src="images/demo/featured-slide/logo.jpg" width="60" height="60" border="1" style="margin-top: -25px 0 0 5px;"></a><a href="index.html">&nbsp;&nbsp;&nbsp;Management of Information Technology@PSU</a></h1>
       <!---<p>Free Website Template</p>--->
     </div>
   </div>
@@ -22,7 +22,7 @@
 <div class="wrapper row2">
   <div id="topnav">
     <ul>
-      <li><a href="index.html">Homepage</a></li>
+      <li class="active"><a href="index.html">Homepage</a></li>
 
       <li><a href="http://www.eng.psu.ac.th/index.php?start=5"target="_blank">VISITOR</a>
         <ul>
@@ -56,7 +56,7 @@
         </ul>
       </li>
 
-      <li class="active"><a href="aboutus.html">About us</a>
+      <li><a href="aboutus.html">About us</a>
        <!---
 		<ul>
           <li><a href="#">History</a></li>
@@ -83,7 +83,7 @@
         <h2 class="title">นักวิจัยวิศวฯ มุ่งมั่นตีพิมพ์บทความในวารสารวิชาการนานาชาติจากฐานข้อมูล SCOPUS</h2>
         <div id="hpage_quicklinks">
 		   <p><img src="images/news1content.jpg" alt="" / ></p>
-        <p style="text-align:justify;margin-right: 30px;margin-left: 30px;">จากการสืบค้นบทความที่ตีพิมในฐานข้อมูล SCOPUS ระหว่าง 2013-2014 พบว่าคณะวิศวกรรมศาสตร์มีบทความที่ตีพิมพ์ในวารสารวิชาการนานาชาติประมาณ 71 บทความ 
+        <p style="text-indent:25px;">จากการสืบค้นบทความที่ตีพิมในฐานข้อมูล SCOPUS ระหว่าง 2013-2014 พบว่าคณะวิศวกรรมศาสตร์มีบทความที่ตีพิมพ์ในวารสารวิชาการนานาชาติประมาณ 71 บทความ 
 โดยมี รศ.ดร. สุชาติ ลิ่มกตัญญู มีจำนวนบทความตีพิมฑ์สูงสุด 12 บทความ คณะวิศวกรรมศาสตร์ 
 จึงขอแสดงความยินดีและขอแสดงความขอบคุณนักวิจัยทุกท่านที่ได้มีส่วนร่วมในการตีพิมพ์ดังกล่าว</p>
 
