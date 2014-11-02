@@ -24,35 +24,35 @@
     <ul>
       <li><a href="index.html">Homepage</a></li>
 
-      <li><a href="http://www.eng.psu.ac.th/index.php?start=5"target="_blank">VISITOR</a>
+        <li><a href="#">VISITOR</a>
         <ul>
-          <li><a href="http://www.eng.psu.ac.th/entrance/course/masters.html"target="_blank">Study Programs</a></li>
-          <li><a href="http://www.eng.psu.ac.th/home.html"target="_blank">Showcase & Award</a></li>
-          <li><a href="http://www.eng.psu.ac.th/ResearchPage.html"target="_blank">Research</a></li>
-		  <li><a href="http://www.eng.psu.ac.th/committee/committeefaculty.html"target="_blank">Personnel</a></li>
+          <li><a href="http://www.eng.psu.ac.th/entrance/course/masters.html" target="_blank">Study Programs</a></li>
+          <li><a href="http://phoenix.eng.psu.ac.th/qa/P&Q/?file=report_eng.html" target="_blank">Showcase & Award</a></li>
+          <li><a href="http://www.eng.psu.ac.th/ResearchPage.html" target="_blank">Research</a></li>
+		  <li><a href="http://www.eng.psu.ac.th/committee/committeefaculty.html" target="_blank">Personnel</a></li>
         </ul>
       </li>
 
-      <li><a href="http://lms.psu.ac.th"target="_blank">STUDENT</a>
+      <li><a href="#">STUDENT</a>
         <ul>
-          <li><a href="http://lms.psu.ac.th"target="_blank">News and Announcements</a></li>
-          <li><a href="http://lms.psu.ac.th"target="_blank">Education Plan</a></li>
-          <li><a href="http://lms.psu.ac.th"target="_blank">Course Outline (TQF)</a></li>
-		  <li><a href="http://w08.psu.ac.th/en/book/export/html/28"target="_blank">Rules & Regulations</a></li>
-		  <li><a href="http://w08.psu.ac.th/node/416"target="_blank">Education calendar </a></li>
-		  <li><a href="http://www.grad.psu.ac.th/eng/form.php"target="_blank">Education forms</a></li>
+          <li><a href="http://feeds.feedburner.com/PSU-Thailand" target="_blank">News and Announcements</a></li>
+          <li><a href="http://www.grad.psu.ac.th/practice.php" target="_blank">Education Plan</a></li>
+          <li><a href="http://www.eng.psu.ac.th/documents/major-selection/major-selection-brochure.pdf" target="_blank">Course Outline (TQF)</a></li>
+		  <li><a href="http://w08.psu.ac.th/en/book/export/html/28" target="_blank">Rules & Regulations</a></li>
+		  <li><a href="http://w08.psu.ac.th/node/416" target="_blank">Education calendar </a></li>
+		  <li><a href="http://www.grad.psu.ac.th/eng/form.php" target="_blank">Education forms</a></li>
         </ul>
       </li>
 
-      <li><a href="http://www.grad.psu.ac.th"target="_blank">Infrastructure Services</a>
+      <li><a href="#">Infrastructure Services</a>
         <ul>
-          <li><a href="http://lms.psu.ac.th"target="_blank">LMS</a></li>
-          <li><a href="http://email.psu.ac.th"target="_blank">Student Email</a></li>
-          <li><a href="https://sis-hatyai3.psu.ac.th/WebRegist2005/Login.aspx"target="_blank">Grade Check</a></li>
-		  <li><a href="http://lms.psu.ac.th"target="_blank">Online Regestration</a></li>
-		  <li><a href="http://www.psu.ac.th/th/information-system"target="_blank">Print Quota</a></li>
-		  <li><a href="http://www.eng.psu.ac.th/component/remository/MIT"target="_blank">ยื่นแบบวิทยานิพนธ์/สารนิพนธ์ออนไลน์</a></li>
-		  <li><a href="http://reg.psu.ac.th/graduatenew"target="_blank">แจ้งสำเร็จการศึกษา</a></li>
+          <li><a href="http://lms.psu.ac.th/" target="_blank">LMS</a></li>
+          <li><a href="http://email.psu.ac.th" target="_blank">Student Email</a></li>
+          <li><a href="https://sis-hatyai3.psu.ac.th/WebRegist2005/Login.aspx" target="_blank">Grade Check</a></li>
+		  <li><a href="http://lms.psu.ac.th" target="_blank">Online Regestration</a></li>
+		  <li><a href="http://www.psu.ac.th/th/information-system" target="_blank">Print Quota</a></li>
+		  <li><a href="http://www.eng.psu.ac.th/component/remository/MIT" target="_blank">ยื่นแบบวิทยานิพนธ์/สารนิพนธ์ออนไลน์</a></li>
+		  <li><a href="http://reg.psu.ac.th/graduatenew" target="_blank">แจ้งสำเร็จการศึกษา</a></li>
         </ul>
       </li>
 
