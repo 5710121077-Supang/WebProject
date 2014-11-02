@@ -13,7 +13,7 @@
 <div class="wrapper row1">
   <div id="header" class="clear">
     <div class="fl_left">
-      <h1><a href="index.html"><img src="images/demo/featured-slide/logo.jpg" width="60" height="60" border="1" style="margin-top: -25px 0 0 5px;"></a><a href="index.html">&nbsp;&nbsp;&nbsp;Management of Information Technology@PSU</a></h1>
+      <h1><a href="index.html"><img src="images/demo/featured-slide/logoMIT.png" width="60" height="60" border="1" style="margin-top: -25px 0 0 5px;"></a><a href="index.html">&nbsp;&nbsp;&nbsp;Management of Information Technology@PSU</a></h1>
       <!---<p>Free Website Template</p>--->
     </div>
   </div>
@@ -202,12 +202,12 @@ rssfeed_cache = "9cbbe4ef43b2541bd586ce4736b4ba9b";
             <li>
               <div class="imgl"><img src="images/news2content.jpg" alt="" height="100px" /></div>
 			  <p class="latestnews">พิธีลงนาม “การส่งเสริมการใช้พลังงานทดแทนและการอนุรักษ์พลังงาน”</p>
-              <p class="readmore"><a href="news1.html">Continue Reading &raquo;</a></p>
+              <p class="readmore"><a href="news2.html">Continue Reading &raquo;</a></p>
             </li>
             <li class="last">
               <div class="imgl"><img src="images/news3content.jpg" alt="" height="100px" /></div>
               <p class="latestnews">อาจารย์วิศวฯ เหมืองแร่และวัสดุได้รับรางวัลนักเทคโนโลยีดีเด่นประจำปี 2557</p>
-              <p class="readmore"><a href="news1.html">Continue Reading &raquo;</a></p>
+              <p class="readmore"><a href="news3.html">Continue Reading &raquo;</a></p>
             </li>
           </ul>
         </div>
