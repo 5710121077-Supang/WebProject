@@ -13,7 +13,11 @@
 <div class="wrapper row1">
   <div id="header" class="clear">
     <div class="fl_left">
-      <h1><img src="images/demo/featured-slide/logo.jpg" width="100" height="100" border="1" style="margin-top: -25px;"><a href="index.html">&nbsp;&nbsp;&nbsp;Management of Information Technology@PSU</a></h1>
+<<<<<<< HEAD
+      <h1><img src="images/demo/featured-slide/logo.jpg" width="60" height="60" border="1" style="margin-top: -25px;"><a href="index.html">&nbsp;&nbsp;&nbsp;Management of Information Technology@PSU</a></h1>
+=======
+      <h1><img src="images/demo/featured-slide/logoMIT.png" width="100" height="100" border="1" style="margin-top: -25px;"><a href="index.html">&nbsp;&nbsp;&nbsp;Management of Information Technology@PSU</a></h1>
+>>>>>>> ec9a5c38d5878373ea3870bfd491e38f6194c725
       <!---<p>Free Website Template</p>--->
     </div>
   </div>
@@ -110,15 +114,15 @@
         <h2 class="title">Quick Access</h2>
         <div id="hpage_quicklinks">
           <ul class="clear">
-            <li><a href="#">PSU</a></li>
-            <li><a href="#">LMS@PSU</a></li>
-            <li><a href="#">PSU Registration Office</a></li>
-            <li><a href="#">PSU Graduate School</a></li>
-            <li><a href="#">PSU Library </a></li>
-            <li><a href="#">Student Email</a></li>
-            <li><a href="#">Grade Check</a></li>
-            <li><a href="#">Graduate Office @ eng.psu</a></li>
-            <li><a href="#">FAQs</a></li>
+            <li><a href="http://www.psu.ac.th" target="_blank">PSU</a></li>
+            <li><a href="http://lms.psu.ac.th" target="_blank">LMS@PSU</a></li>
+            <li><a href="http://reg.psu.ac.th"target="_blank">PSU Registration Office</a></li>
+            <li><a href="http://www.grad.psu.ac.th " target="_blank">PSU Graduate School</a></li>
+            <li><a href="http://reg.psu.ac.th" target="_blank">PSU Library </a></li>
+            <li><a href="https://webmail.psu.ac.th/webmail/src/login.php">Student Email</a></li>
+            <li><a href="https://sis-hatyai9.psu.ac.th/WebRegist2005" target="_blank">Grade Check</a></li>
+            <li><a href="http://www.mit.psu.ac.th" target="_blank">Graduate Office @ eng.psu</a></li>
+            <li><a href="http://www.eng.psu.ac.th/entrance/webboard.html" target="_blank">FAQs</a></li>
           </ul>
         </div>
 		<!---
@@ -147,25 +151,25 @@
         <div id="hpage_latestnews">
           <ul>
             <li>
-              <div class="imgl"><img src="images/demo/160x80.gif" alt="" /></div>
+              <div class="imgl"><img src="images/demo/news1.jpg" alt="" /></div>
               <!---
 			  <p class="latestnews">This is a W3C compliant free website template from <a href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a>. This template is distributed using a <a href="http://www.os-templates.com/template-terms">Website Template Licence</a>.</p>
 			  --->
-              <p class="readmore"><a href="#">Continue Reading &raquo;</a></p>
+              <p class="readmore"><a href="news1.html">Continue Reading &raquo;</a></p>
             </li>
             <li>
-              <div class="imgl"><img src="images/demo/160x80.gif" alt="" /></div>
+              <div class="imgl"><img src="images/demo/news2.jpg" alt="" /></div>
              <!---
 			  <p class="latestnews">You can use and modify the template for both personal and commercial use. You must keep all copyright information and credit links in the template and associated files. For more CSS templates visit <a href="http://www.os-templates.com/">Free Website Templates</a>.</p>
 			  --->
-              <p class="readmore"><a href="#">Continue Reading &raquo;</a></p>
+              <p class="readmore"><a href="news2.html">Continue Reading &raquo;</a></p>
             </li>
             <li class="last">
-              <div class="imgl"><img src="images/demo/160x80.gif" alt="" /></div>
+              <div class="imgl"><img src="images/demo/news3.jpg" alt="" /></div>
 			  <!---
               <p class="latestnews">Attincidunt vel nam a maurisus lacinia consectetus magnisl sed ac morbi. Inmaurisus habitur pretium eu et ac vest penatibus id lacus parturpis. Maecenaset adipiscinia tellentum nullam velit et a convallis curabitae vitae laoreet niseros ligula sem sed susp en at.</p>
 			  --->
-              <p class="readmore"><a href="#">Continue Reading &raquo;</a></p>
+              <p class="readmore"><a href="news3.html">Continue Reading &raquo;</a></p>
             </li>
           </ul>
         </div>
